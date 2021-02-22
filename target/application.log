@@ -1,0 +1,5 @@
+93   [main] INFO  org.eclipse.jetty.util.log - jetty-7.2.1.v20101111
+140  [main] INFO  org.eclipse.jetty.util.log - NO JSP Support for /myContext, did not find org.apache.jasper.servlet.JspServlet
+768  [main] INFO  o.f.s.servlet.ServletTemplateEngine - Scalate template engine using working directory: D:\folderstructures\watermelon\target\scalate
+768  [main] INFO  org.fusesource.scalate.TemplateEngine - No bootstrap class scalate.Boot found on classloader: WebAppClassLoader@MyWebAppApp
+799  [main] INFO  org.eclipse.jetty.util.log - Started SelectChannelConnector@0.0.0.0:55969
